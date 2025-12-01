@@ -331,6 +331,14 @@ h3 {
     text-decoration: underline;
 }
 
+/* Citation superscript styling */
+sup {
+    color: #667eea;
+    font-size: 0.75em;
+    font-weight: bold;
+    vertical-align: super;
+}
+
 footer {
     background: #2c3e50;
     color: white;
