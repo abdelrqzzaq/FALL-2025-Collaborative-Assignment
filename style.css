@@ -287,7 +287,6 @@ h3 {
 }
 
 .call-to-action li:before {
-    content: "✓";
     position: absolute;
     left: 0;
     color: #28a745;
@@ -351,4 +350,5 @@ footer {
 .back-link:hover {
     text-decoration: underline;
 }
+
 
